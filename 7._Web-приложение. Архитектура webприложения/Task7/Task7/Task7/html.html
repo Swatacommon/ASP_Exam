@@ -1,0 +1,36 @@
+﻿<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body>
+    <label Text="ParmA" />
+    <input type="text" name="ParmA" id="x" placeholder="First number" />
+    <br />
+    <label Text="ParmB" />
+    <input type="text" name="ParmB" id="y" placeholder="Second number" />
+    <br />
+    <input type="submit" value="Enter" onclick="a()" />
+    <p id="results"></p>
+
+    <script>
+        function a() {
+            var xhr = new XMLHttpRequest();
+            var x = document.getElementById('x').value;
+            var y = document.getElementById('y').value;
+            let data = new FormData();
+            data.append('x', x);
+            data.append('y', y);
+            xhr.open('POST', 'http://localhost:2771/SimpleServerHandler/', true);
+            xhr.send(data);
+            xhr.onreadystatechange = function () {
+                if (xhr.readyState != 4) return;
+                if (xhr.status != 200) {
+                    alert(xhr.status + ': ' + xhr.statusText);
+                } else {
+                    document.getElementById('results').innerHTML = xhr.responseText;
+                }
+            }
+        }
+    </script>
+</body>
+</html>
