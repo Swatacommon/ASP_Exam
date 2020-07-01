@@ -1,0 +1,15 @@
+﻿@model IEnumerable<Task14.Models.Phone>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div style="display:flex; flex-direction: row; justify-content:space-around; flex-wrap:wrap">
+    @foreach (var item in Model)
+    {
+        <div>
+            <p>@item.Name</p>
+            <br />
+            <p>@item.Phone_number</p>
+        </div>
+    }
+</div>
