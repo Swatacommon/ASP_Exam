@@ -1,0 +1,50 @@
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab7\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.dll.config
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab7\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab7\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab7\WcfServiceLibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab7\WcfServiceLibrary\bin\Debug\System.Buffers.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab7\WcfServiceLibrary\bin\Debug\System.Memory.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab7\WcfServiceLibrary\bin\Debug\System.Numerics.Vectors.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab7\WcfServiceLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab7\WcfServiceLibrary\bin\Debug\System.Text.Encodings.Web.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab7\WcfServiceLibrary\bin\Debug\System.Text.Json.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab7\WcfServiceLibrary\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab7\WcfServiceLibrary\bin\Debug\System.ValueTuple.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab7\WcfServiceLibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab7\WcfServiceLibrary\bin\Debug\System.Buffers.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab7\WcfServiceLibrary\bin\Debug\System.Memory.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab7\WcfServiceLibrary\bin\Debug\System.Numerics.Vectors.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab7\WcfServiceLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab7\WcfServiceLibrary\bin\Debug\System.Text.Encodings.Web.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab7\WcfServiceLibrary\bin\Debug\System.Text.Json.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab7\WcfServiceLibrary\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab7\WcfServiceLibrary\bin\Debug\System.ValueTuple.xml
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab7\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csproj.CopyComplete
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab7\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.dll
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab7\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.pdb
+D:\Studying\Course_3\Second_2sem\ASP.NET\Labs\Lab7\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csprojAssemblyReference.cache
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\19._WCF-сервисы WSDL,хост,прокси,моде\Task19\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.dll.config
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\19._WCF-сервисы WSDL,хост,прокси,моде\Task19\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.dll
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\19._WCF-сервисы WSDL,хост,прокси,моде\Task19\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.pdb
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\19._WCF-сервисы WSDL,хост,прокси,моде\Task19\WcfServiceLibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\19._WCF-сервисы WSDL,хост,прокси,моде\Task19\WcfServiceLibrary\bin\Debug\System.Buffers.dll
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\19._WCF-сервисы WSDL,хост,прокси,моде\Task19\WcfServiceLibrary\bin\Debug\System.Memory.dll
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\19._WCF-сервисы WSDL,хост,прокси,моде\Task19\WcfServiceLibrary\bin\Debug\System.Numerics.Vectors.dll
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\19._WCF-сервисы WSDL,хост,прокси,моде\Task19\WcfServiceLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\19._WCF-сервисы WSDL,хост,прокси,моде\Task19\WcfServiceLibrary\bin\Debug\System.Text.Encodings.Web.dll
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\19._WCF-сервисы WSDL,хост,прокси,моде\Task19\WcfServiceLibrary\bin\Debug\System.Text.Json.dll
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\19._WCF-сервисы WSDL,хост,прокси,моде\Task19\WcfServiceLibrary\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\19._WCF-сервисы WSDL,хост,прокси,моде\Task19\WcfServiceLibrary\bin\Debug\System.ValueTuple.dll
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\19._WCF-сервисы WSDL,хост,прокси,моде\Task19\WcfServiceLibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\19._WCF-сервисы WSDL,хост,прокси,моде\Task19\WcfServiceLibrary\bin\Debug\System.Buffers.xml
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\19._WCF-сервисы WSDL,хост,прокси,моде\Task19\WcfServiceLibrary\bin\Debug\System.Memory.xml
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\19._WCF-сервисы WSDL,хост,прокси,моде\Task19\WcfServiceLibrary\bin\Debug\System.Numerics.Vectors.xml
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\19._WCF-сервисы WSDL,хост,прокси,моде\Task19\WcfServiceLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\19._WCF-сервисы WSDL,хост,прокси,моде\Task19\WcfServiceLibrary\bin\Debug\System.Text.Encodings.Web.xml
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\19._WCF-сервисы WSDL,хост,прокси,моде\Task19\WcfServiceLibrary\bin\Debug\System.Text.Json.xml
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\19._WCF-сервисы WSDL,хост,прокси,моде\Task19\WcfServiceLibrary\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\19._WCF-сервисы WSDL,хост,прокси,моде\Task19\WcfServiceLibrary\bin\Debug\System.ValueTuple.xml
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\19._WCF-сервисы WSDL,хост,прокси,моде\Task19\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csprojAssemblyReference.cache
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\19._WCF-сервисы WSDL,хост,прокси,моде\Task19\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csproj.CopyComplete
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\19._WCF-сервисы WSDL,хост,прокси,моде\Task19\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.dll
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\19._WCF-сервисы WSDL,хост,прокси,моде\Task19\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.pdb

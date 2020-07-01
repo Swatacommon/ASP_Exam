@@ -1,0 +1,6 @@
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\19._WCF-сервисы WSDL,хост,прокси,моде\Task19\TestWCF\bin\Debug\TestWCF.exe.config
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\19._WCF-сервисы WSDL,хост,прокси,моде\Task19\TestWCF\bin\Debug\TestWCF.exe
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\19._WCF-сервисы WSDL,хост,прокси,моде\Task19\TestWCF\bin\Debug\TestWCF.pdb
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\19._WCF-сервисы WSDL,хост,прокси,моде\Task19\TestWCF\obj\Debug\TestWCF.csprojAssemblyReference.cache
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\19._WCF-сервисы WSDL,хост,прокси,моде\Task19\TestWCF\obj\Debug\TestWCF.exe
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\19._WCF-сервисы WSDL,хост,прокси,моде\Task19\TestWCF\obj\Debug\TestWCF.pdb
