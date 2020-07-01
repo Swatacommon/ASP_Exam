@@ -1,0 +1,42 @@
+﻿﻿
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body>
+    <input type="button" value="start" id="start" onclick="b()" />
+    <input type="button" value="stop" id="stop" />
+    <div id='messages'></div>
+
+    <script>
+        var socket,
+            messages = document.getElementById('messages');
+
+        document.getElementById('start').onclick = () => {
+            if (typeof (WebSocket) !== 'undefined') {
+                socket = new WebSocket("ws://localhost:4692/socket/");
+                alert('Create socket')
+            } else {
+                socket = new MozWebSocket("ws://localhost:4692/socket/");
+                alert('Create socket')
+            }
+
+            socket.onmessage = function (msg) {
+                var $el = document.createElement('p');
+                $el.innerHTML = msg.data;
+                messages.appendChild($el);
+            };
+
+            socket.onclose = function (event) {
+                alert('We stop it!');
+            };
+        };
+
+        document.getElementById('stop').onclick = function () {
+            socket.close();
+            alert('Close socket')
+        };
+
+    </script>
+</body>
+</html>

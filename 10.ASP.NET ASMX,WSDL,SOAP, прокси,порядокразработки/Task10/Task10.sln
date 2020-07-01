@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task10", "Task10\Task10.csproj", "{BB693E56-44E3-4497-B4FE-F284C84D942C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestASMX", "TestASMX\TestASMX.csproj", "{FE99FC14-321C-4249-B7A7-CC32AE3A36C9}"
+	ProjectSection(ProjectDependencies) = postProject
+		{BB693E56-44E3-4497-B4FE-F284C84D942C} = {BB693E56-44E3-4497-B4FE-F284C84D942C}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB693E56-44E3-4497-B4FE-F284C84D942C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB693E56-44E3-4497-B4FE-F284C84D942C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB693E56-44E3-4497-B4FE-F284C84D942C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB693E56-44E3-4497-B4FE-F284C84D942C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE99FC14-321C-4249-B7A7-CC32AE3A36C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE99FC14-321C-4249-B7A7-CC32AE3A36C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE99FC14-321C-4249-B7A7-CC32AE3A36C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE99FC14-321C-4249-B7A7-CC32AE3A36C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3588E0BF-088A-4B50-A2CF-979E06B6FA46}
+	EndGlobalSection
+EndGlobal

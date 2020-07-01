@@ -1,0 +1,6 @@
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\10.ASP.NET ASMX,WSDL,SOAP, прокси,порядокразработки\Task10\TestASMX\bin\Debug\TestASMX.exe.config
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\10.ASP.NET ASMX,WSDL,SOAP, прокси,порядокразработки\Task10\TestASMX\bin\Debug\TestASMX.exe
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\10.ASP.NET ASMX,WSDL,SOAP, прокси,порядокразработки\Task10\TestASMX\bin\Debug\TestASMX.pdb
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\10.ASP.NET ASMX,WSDL,SOAP, прокси,порядокразработки\Task10\TestASMX\obj\Debug\TestASMX.csprojAssemblyReference.cache
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\10.ASP.NET ASMX,WSDL,SOAP, прокси,порядокразработки\Task10\TestASMX\obj\Debug\TestASMX.exe
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\10.ASP.NET ASMX,WSDL,SOAP, прокси,порядокразработки\Task10\TestASMX\obj\Debug\TestASMX.pdb
