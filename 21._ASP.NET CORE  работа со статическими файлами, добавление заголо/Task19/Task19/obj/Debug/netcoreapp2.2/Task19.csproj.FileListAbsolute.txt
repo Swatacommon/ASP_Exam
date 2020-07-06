@@ -1,0 +1,10 @@
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\21._ASP.NET CORE  работа со статическими файлами, добавление заголо\Task19\Task19\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\21._ASP.NET CORE  работа со статическими файлами, добавление заголо\Task19\Task19\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\21._ASP.NET CORE  работа со статическими файлами, добавление заголо\Task19\Task19\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\21._ASP.NET CORE  работа со статическими файлами, добавление заголо\Task19\Task19\bin\Debug\netcoreapp2.2\Task19.deps.json
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\21._ASP.NET CORE  работа со статическими файлами, добавление заголо\Task19\Task19\bin\Debug\netcoreapp2.2\Task19.runtimeconfig.json
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\21._ASP.NET CORE  работа со статическими файлами, добавление заголо\Task19\Task19\bin\Debug\netcoreapp2.2\Task19.runtimeconfig.dev.json
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\21._ASP.NET CORE  работа со статическими файлами, добавление заголо\Task19\Task19\bin\Debug\netcoreapp2.2\Task19.dll
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\21._ASP.NET CORE  работа со статическими файлами, добавление заголо\Task19\Task19\obj\Debug\netcoreapp2.2\Task19.csprojAssemblyReference.cache
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\21._ASP.NET CORE  работа со статическими файлами, добавление заголо\Task19\Task19\obj\Debug\netcoreapp2.2\Task19.AssemblyInfoInputs.cache
+D:\Studying\Course_3\Second_2sem\Exams\ASP.Net\Tasks\21._ASP.NET CORE  работа со статическими файлами, добавление заголо\Task19\Task19\obj\Debug\netcoreapp2.2\Task19.AssemblyInfo.cs

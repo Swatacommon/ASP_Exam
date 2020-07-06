@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<style>
+    tr {
+        border: 1px solid #000000;
+    }
+</style>
+
+<h2>Сессионная-кука @ViewBag.Name</h2>
+
+
+<table>
+    <tr>
+        <td>Имя</td>
+        <td>Телефон</td>
+        <td></td>
+        <td></td>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.Phone_Number</td>
+        </tr>
+    }
+</table>
